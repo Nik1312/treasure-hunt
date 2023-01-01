@@ -1,0 +1,11 @@
+Model Information:
+* title:	Super Mario World Map
+* source:	https://sketchfab.com/3d-models/super-mario-world-map-c705c8d204254cf9b31f864fda4c1ba1
+* author:	Pineda (https://sketchfab.com/pineda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Super Mario World Map" (https://sketchfab.com/3d-models/super-mario-world-map-c705c8d204254cf9b31f864fda4c1ba1) by Pineda (https://sketchfab.com/pineda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
